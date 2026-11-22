@@ -20,7 +20,8 @@
 https://github.com/user-attachments/assets/4226f4d5-4098-4714-a10e-688dedf94d5c
 
 > 宣传短片由 **Gemini 4 Neon** 仅通过一轮对话制作。  
-> Promo video created by **Gemini 4 Neon** in a single conversation turn.
+> Promo video created by **Gemini 4 Neon** in a single conversation turn.  
+> 高清原片 / High-Bitrate Video：[AgentDAW_Promo.mp4](./AgentDAW_Promo.mp4) · 原始无损音频 / Lossless Audio：[AgentDAW_Theme.wav](./AgentDAW_Theme.wav)
 
 ---
 

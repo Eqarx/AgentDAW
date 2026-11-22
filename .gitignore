@@ -12,7 +12,9 @@ mcp_config.json
 # Temp & rendered audio/video outputs
 .agent-daw-*
 *.wav
+!AgentDAW_Theme.wav
 *.mp3
 *.mp4
+!AgentDAW_Promo.mp4
 *.mid
 *.vstpreset
