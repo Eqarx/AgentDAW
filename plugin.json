@@ -1,0 +1,15 @@
+{
+  "name": "agent-daw",
+  "displayName": "AgentDAW",
+  "description": "AI-native offline multi-track DAW engine for Antigravity with direct Kontakt 8 (康泰克 8) VST3 hosting, MIDI sequencing, audio clip editing, 22+ built-in/VST3 effects, send buses, automation, surgical project editing, native multimodal audio auditioning/analysis, and 24-bit WAV rendering.",
+  "version": "1.0.0",
+  "author": "Eqarx",
+  "homepage": "https://github.com/Eqarx/AgentDAW",
+  "repository": "https://github.com/Eqarx/AgentDAW",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "检查 AgentDAW 的 Kontakt 8（康泰克 8）环境与本机可用音色库",
+    "新建一个 AgentDAW 多轨工程并渲染为 24-bit WAV",
+    "加载已有工程 JSON，按要求修改轨道参数或音符并另存渲染新版本"
+  ]
+}

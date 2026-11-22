@@ -1,0 +1,18 @@
+# Local runtime & virtual environments
+runtime/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Machine-specific config
+settings.json
+mcp_config.json
+
+# Temp & rendered audio/video outputs
+.agent-daw-*
+*.wav
+*.mp3
+*.mp4
+*.mid
+*.vstpreset
