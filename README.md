@@ -17,11 +17,11 @@
 
 ## 🎬 宣传短片 / Promo Video
 
-<video src="https://github.com/Eqarx/AgentDAW/releases/download/v1.0.0/AgentDAW_Promo.mp4" controls width="100%"></video>
+<video src="https://github.com/Eqarx/AgentDAW/raw/main/assets/AgentDAW_Promo.mp4" controls width="100%"></video>
 
 > 宣传短片由 **Gemini 4 Neon** 仅通过一轮对话制作。  
 > Promo video created by **Gemini 4 Neon** in a single conversation turn.  
-> 如浏览器未直接内联播放，可直接观看或下载：[AgentDAW_Promo.mp4 (Release v1.0.0)](https://github.com/Eqarx/AgentDAW/releases/download/v1.0.0/AgentDAW_Promo.mp4)
+> 如浏览器未直接内联播放，可直接观看或下载：[assets/AgentDAW_Promo.mp4](https://github.com/Eqarx/AgentDAW/raw/main/assets/AgentDAW_Promo.mp4)
 
 ---
 

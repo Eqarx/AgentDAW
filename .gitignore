@@ -14,5 +14,6 @@ mcp_config.json
 *.wav
 *.mp3
 *.mp4
+!assets/AgentDAW_Promo.mp4
 *.mid
 *.vstpreset
